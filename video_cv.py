@@ -4,6 +4,9 @@
 Guided from https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-
             detector-from-scratch-in-pytorch-part-2/
             
+Pretrained weights at:
+wget https://pjreddie.com/media/files/yolov3.weights
+
 2019, Jacob Krajewski
 """
 
